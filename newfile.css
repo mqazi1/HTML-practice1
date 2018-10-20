@@ -1,0 +1,21 @@
+body {
+	background-color: Tomato;
+}
+h1 {
+	text-align: center;
+	color : White;
+	text-transform: uppercase;
+}
+ul.square {
+	list-style-type: square;
+}
+p {
+	font-family: verdana;
+	font-size: 25px;	
+}
+h6 { 
+	font-family: Brush Script Mt;
+	font-size: 30px;
+}
+p.double {border-style: double;}
+
